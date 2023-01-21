@@ -1,23 +1,6 @@
 <p align="center" width="300">
-    <img align="center" width="200" src="https://user-images.githubusercontent.com/109598200/201099675-6ac22966-8e67-4b1b-8565-8b0dc5160f5d.png"/>
-    <h3 align="center">Hey 👋! I'm Jose 👨🏻‍💻</h3>
- </p>
- 
- <p align="center">I'm a future <strong>Web Developer</strong> <br />¡These are my social networks👇!</p>
- 
- <p align="center">
-  <a href="https://www.youtube.com/channel/UCWn_0MmgojB711LFX-jaCDQ" target="blank" style="margin-right: 4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="El Rincon Del Dev" height="28px" width="28px">
-  </a>
-  <a href="https://www.linkedin.com/in/joseramonmontes/" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jose Ramon Montes Hermida" height="28px" width="28px" />
-   </a>
-    <a href="https://www.instagram.com/elrincondeldev/" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="El Rincón Del Dev" height="28px" width="28px" />
-   </a>
-  <a href="https://www.tiktok.com/@elrincondeldev" target="blank" style='margin-right:4px'>
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="El Rincón Del Dev" height="28px" width="28px" />
-   </a>
+    <img align="center" width="200" src="https://user-images.githubusercontent.com/109l598200/201099675-6ac22966-8e67-4b1b-8565-8b0dc5160f5d.png"/>
+    <h3 align="center">Hey 👋! I'm Manuel 👨🏻‍💻</h3>
  </p>
  
  ### 🤓 A little more about me...
@@ -39,15 +22,4 @@
  <a href="https://git-scm.com/" title="Git"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561308-2750d1eb-6903-4c73-b00e-87ef93059302.png" /></a>
  <a href="https://www.python.org/" title="Python"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561275-a58f67d1-3644-4cd2-ae0a-bc625c042ae1.png" /></a>
  <a href="https://www.djangoproject.com/" title="Django"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561392-f48d05c5-41ea-4a46-9965-ec8d06e7b20f.png"></a>
- 
-  ### 📹 My last videos on [El Rincon Del Dev](https://www.youtube.com/channel/UCWn_0MmgojB711LFX-jaCDQ)
-  
-   <a href='https://www.youtube.com/watch?v=e1sq1rgJUoo' target='_blank'>
-   <img width='30%' src='https://user-images.githubusercontent.com/109598200/196562263-c405bcb6-6351-4473-8e71-f9359a3ef815.jpg' alt='React en 60 segundos' />
- </a>
-  <a href='https://www.youtube.com/watch?v=R7nuOTaDqbc&t' target='_blank'>
-   <img width='30%' src='https://user-images.githubusercontent.com/109598200/196562413-4093506c-d09c-452b-8853-247288c95736.jpg' alt='10 CONSEJOS para AUMENTAR tu PRODUCTIVIDAD con VS CODE' />
- </a>
- <a href='https://www.youtube.com/watch?v=5e2ElDRDApY&t' target='blank'>
-   <img width='30%' src='https://user-images.githubusercontent.com/109598200/196562541-9015a0a8-2646-4c82-96b2-1fc01c487856.jpg' alt='DESAFÍO QR CODE' />
- </a>
+

@@ -22,4 +22,6 @@
  <a href="https://git-scm.com/" title="Git"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561308-2750d1eb-6903-4c73-b00e-87ef93059302.png" /></a>
  <a href="https://www.python.org/" title="Python"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561275-a58f67d1-3644-4cd2-ae0a-bc625c042ae1.png" /></a>
  <a href="https://www.djangoproject.com/" title="Django"><img width="60" src="https://user-images.githubusercontent.com/109598200/196561392-f48d05c5-41ea-4a46-9965-ec8d06e7b20f.png"></a>
+<a href="https://www.djangoproject.com/" title="C#"><img width="60" src="https://user-images.githubusercontent.com/62978637/215535343-07304515-f1ff-4abd-ab90-373c90fda474.png"></a>
+
 
